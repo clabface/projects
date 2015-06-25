@@ -20,4 +20,4 @@ to_do.each do |present|
 	puts time[again] + " - " + present
 	again += 1
 end
-puts "Get to work! See you tomorrow!"
+puts "Get to work ya lazy bum! See you tomorrow!"
